@@ -20,9 +20,8 @@ The dashboard highlights several key aspects of the car sales data:
 - **Market Share:** A donut chart that displays the percentage of market share held by each car brand.
 
 ## **Technologies Used**
-- **Dashboarding Tool:** [Specify the tool you used, e.g., Power BI, Tableau, Google Data Studio]
-- **Data Source:** [Mention the source of your data, e.g., Fictional Car Sales Data, Kaggle Dataset]
-
+- **Dashboarding Tool:- Power BI
+- **Data Source: Kaggle Dataset
 
 
 Here is a visual representation of the dashboard:
